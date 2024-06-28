@@ -21,4 +21,5 @@ No problem! You can activate PowerUser Mode by typing the secret command in the 
 
 # Credits
 About 80% of the code - TheOneXylite
+
 The other 20% - Gemini (gemini.google.com)
