@@ -8,9 +8,6 @@ I also wanted to test the OS module and thought this was the best thing I could 
 # How?
 As stated before, this uses the OS module for most actions (as well as subprocess for opening .EXEs)
 
-# When?
-Over the course of about a month.
-
 # Features!
 xyCMD provides simple commands like change (for changing directories), open (for opening applications) and read (for reading text files)
 You can use the "help" command to look up the commands available.
